@@ -6,7 +6,7 @@ This is a simple web-based game called Simon Game built using JavaScript, HTML, 
 
 ## How to Play
 
-1. Open the [Simon Game](https://example.com/simon-game) in your web browser.
+1. Open the [Simon Game](https://amansinghrajputana.github.io/simon-game/) in your web browser.
 2. The game starts with a single box lighting up, accompanied by a sound.
 3. Repeat the pattern by clicking or tapping the corresponding boxes in the same order.
 4. After each successful repetition, the game adds a new box to the pattern, making it progressively harder.
