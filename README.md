@@ -1,6 +1,6 @@
 # Simon Game
 
-![Simon Game](screenshot.png)
+
 
 This is a simple web-based game called Simon Game built using JavaScript, HTML, jQuery, and CSS. The game tests your memory skills by presenting a random pattern of colored boxes that you need to follow. If you make a mistake, the game restarts, and you have to try again.
 
@@ -41,21 +41,5 @@ The Simon Game is built using the following technologies:
 - jQuery
 - CSS
 
-## Credits
-
-The Simon Game project was created by [Your Name](https://github.com/your-username). It is inspired by the classic electronic game called "Simon" invented by Ralph H. Baer and Howard J. Morrison.
-
-Special thanks to the following resources:
-
-- [jQuery](https://jquery.com/) - A fast, small, and feature-rich JavaScript library.
-- [SoundBible](https://soundbible.com/) - A collection of royalty-free sounds for use in projects.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contact
-
-If you have any questions, suggestions, or feedback, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
 
 Enjoy the Simon Game!
