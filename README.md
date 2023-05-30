@@ -21,7 +21,7 @@ If you wish to run the game locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simon-game.git
+git clone https://github.com/AmanSinghRajputana/simon-game.git
 ```
 
 2. Navigate to the project directory:
